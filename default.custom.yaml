@@ -55,7 +55,7 @@ patch:
   # 快捷键
   key_binder/bindings:
     # 简繁切换
-    - {when: always, accept: "Control+Shift+4", toggle: traditionalization}
+    - {when: always, accept: "Control+Shift+quotedbl", toggle: traditionalization}
     # 切换中英文标点
     - {when: always, accept: "Control+Shift+3", toggle: ascii_punct}
 
